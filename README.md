@@ -9,7 +9,7 @@
     Visit index.HTML file to test the use of the 3 different progrmas.
 
 ## Livesite
-Please Visit:
+Please Visit: https://samiec.github.io/codechallenge2/
 
 ## TECH Used
 1. JavaScript
